@@ -25,3 +25,12 @@
 		- Gradient descent
 		- Gradient descente with momentum
 		- Adaptive Learning rate gradient descent
+- Lesson #05
+	- [Splitting Data](https://www.loom.com/share/e5a0a3a2ee94484cbadff2c43868cfd4)
+	- [Bias vs Variance](https://www.loom.com/share/5359a4816ebf4aeabff8a4ab16aea530)
+	- [Fundamentals of Regularization](https://www.loom.com/share/16b356c61c1c455d97b4b2ecceafe2e4)
+	- [Other regularization techniques](https://www.loom.com/share/a47e29a743b2420aaac226c0736e6410)
+- Lesson #06
+	- Case Study
+	- Non regularized model
+	- Dropout
